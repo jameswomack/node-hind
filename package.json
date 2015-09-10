@@ -1,0 +1,33 @@
+{
+  "name": "node-hind",
+  "version": "1.0.0",
+  "description": "Get the hind of a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswomack/node-hind.git"
+  },
+  "keywords": [
+    "tail",
+    "end",
+    "file",
+    "fs",
+    "hind",
+    "tailf",
+    "tale",
+    "logs",
+    "size"
+  ],
+  "author": "James J. Womack (@jameswomack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameswomack/node-hind/issues"
+  },
+  "homepage": "https://github.com/jameswomack/node-hind#readme",
+  "devDependencies": {
+    "tape": "4.2.0"
+  }
+}
